@@ -237,7 +237,7 @@ RIOS comes in three versions. A non-preemptive version with either simple or sta
 
 ## Porting to AVR microcontrollers
 
-For more information on running RIOS on an AVR, check [here](rios_avr.htm).
+For more information on running RIOS on an AVR, check [here](rios_avr.md).
 
 ## Student Projects
 
